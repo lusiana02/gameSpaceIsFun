@@ -1,0 +1,4 @@
+intan	100
+diva	70
+dini	70
+lusi	50

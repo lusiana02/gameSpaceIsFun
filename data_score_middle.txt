@@ -1,0 +1,9 @@
+diva	100
+lusi	100
+lusi	90
+izra	75
+LUSI	45
+budi	40
+andi	30
+dini	25
+dian	20

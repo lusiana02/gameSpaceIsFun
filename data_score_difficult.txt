@@ -1,0 +1,4 @@
+diva	100
+lusi	50
+dini 	85
+
